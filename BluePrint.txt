@@ -1,0 +1,14 @@
+////// TEDDIESSUPPORT ANGULAR JS AND NODE /////
+
+-----NAVBAR
+------FORMPAGE
+------SOME CSSS
+-------TEDDIES LOGO
+--------DATABASE
+-------BACKEND WITH NODEJS
+-------SOME UIS
+
+/////// TEDDIESSUPPORT BLUEPRINT ///////
+
+///// links /////
+https://www.c-sharpcorner.com/article/lets-start-angular-by-developing-an-angular-application-step-by-step/
